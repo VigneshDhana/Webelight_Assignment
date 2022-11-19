@@ -1,0 +1,15 @@
+.table {
+    margin: 20px;
+    text-align: center;
+}
+.table button{
+    padding: 10px 20px;
+    margin: 10px;
+}
+.table h3{
+    margin: 10px;
+}
+.table th{
+    background-color: black;
+    color: white;
+}

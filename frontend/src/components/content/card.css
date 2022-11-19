@@ -1,0 +1,26 @@
+.cards{
+    margin: 20px;
+    height: 200px;
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid rgb(163, 161, 161);
+    border-radius: 10px;
+}
+.cardImg{
+    max-width: 100px;
+    max-height: 100px ;
+}
+.cardImg img{
+    max-height: 100%;
+    max-width: 100%;
+}
+.cards:hover{
+    transform: scale(1.2);
+}
+.cardDetails{
+    text-align: center;
+    margin-bottom: 10px;
+}
